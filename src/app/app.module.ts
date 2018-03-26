@@ -17,7 +17,7 @@ import { AuthService } from './_services/auth.service';
     NavComponent
 ],
   imports: [
-  BrowserModule,
+    BrowserModule,
     HttpModule,
     FormsModule
   ],
